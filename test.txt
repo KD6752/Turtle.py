@@ -1,3 +1,3 @@
-Hello there
-How are you 
-This is my first git document
+This is test git hub practice I am doing to know how to navigate git and GitHub
+
+This .py file contains first ever turtle game
